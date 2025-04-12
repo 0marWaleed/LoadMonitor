@@ -12,17 +12,16 @@
 ## Project Structure
 
 ```
-Distributed Load Monitor System
-├── server/                  # Central monitoring server
-│   ├── app.py               # Flask web application
-│   ├── database.py          # Database operations
-│   ├── config.py            # Server configuration
-│   └── requirements.txt     # Server dependencies
-├── client/                  # Client application
-│   ├── monitor.py           # Resource monitoring and reporting
-│   ├── config.py            # Client configuration
-│   └── requirements.txt     # Client dependencies
-└── README.md                # System documentation
+LoadMonitor/
+├── server/
+│   ├── app.py             # Main server application
+│   ├── database.py        # Database models
+│   ├── config.py          # Server configuration
+│   └── templates/
+│       └── dashboard.html # Dashboard interface
+└── client/
+    ├── monitor.py         # Resource monitoring script
+    ├── config.py          # Client configuration
 ```
 
 
@@ -35,16 +34,13 @@ Distributed Load Monitor System
 
 ### How to Run
 
-My apologies for the confusion! Here's the **correct Markdown formatting** for the setup instructions:
-
-```markdown
 ## Setup Instructions
 
 Follow these steps to set up both the server and client components of LoadMonitor.
 
 ---
 
-### 🔧 Server Setup
+## 🔧 Server Setup
 
 1. **Install dependencies:**
 
@@ -76,7 +72,7 @@ Follow these steps to set up both the server and client components of LoadMonito
 
 ---
 
-### 💻 Client Setup
+## 💻 Client Setup
 
 1. **Install dependencies:**
 
