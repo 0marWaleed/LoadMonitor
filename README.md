@@ -97,11 +97,8 @@ Follow these steps to set up both the server and client components of LoadMonito
 ---
 
 Now your LoadMonitor system should be up and running! 🎉
-```
 
-This is the **proper Markdown** for your setup instructions. You can copy and paste this into your `README.md` file directly.
-
-1. **Clone the Repository**
+**Clone the Repository**
 
    ```bash
    git clone https://github.com/0marWaleed/LoadMonitor.git
