@@ -11,6 +11,7 @@
 
 ## Project Structure
 
+```
 Distributed Load Monitor System
 ├── server/                  # Central monitoring server
 │   ├── app.py               # Flask web application
@@ -18,10 +19,11 @@ Distributed Load Monitor System
 │   ├── config.py            # Server configuration
 │   └── requirements.txt     # Server dependencies
 ├── client/                  # Client application
-│   ├── monitor.py          # Resource monitoring and reporting
-│   ├── config.py           # Client configuration
-│   └── requirements.txt    # Client dependencies
-└── README.md               # System documentation
+│   ├── monitor.py           # Resource monitoring and reporting
+│   ├── config.py            # Client configuration
+│   └── requirements.txt     # Client dependencies
+└── README.md                # System documentation
+```
 
 
 ## Getting Started
