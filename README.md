@@ -1,4 +1,4 @@
-# LoadMonitor
+# 🖥 LoadMonitor
 
 **LoadMonitor** is a lightweight, modular web-based application designed to monitor and display system load metrics in real time. It features a Python backend that collects system information and an HTML/CSS/JavaScript frontend that presents the data in a clean and accessible interface.
 
@@ -37,6 +37,5 @@ Then open the dashboard link
 3. **Start Client file (any file from the 3 files or all 3)**
    ```bash
    python client.py
-
 
 Let me know if you'd like to include a sample screenshot or a brief explanation of the server's output format as well!
