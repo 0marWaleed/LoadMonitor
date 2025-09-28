@@ -38,4 +38,3 @@ Then open the dashboard link
    ```bash
    python client.py
 
-Let me know if you'd like to include a sample screenshot or a brief explanation of the server's output format as well!
